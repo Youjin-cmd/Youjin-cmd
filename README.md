@@ -3,7 +3,7 @@
 - 제 소프트웨어가 유저의 일상을 개선하고 문제 해결을 할 때 큰 보람을 느낍니다. </br>
 
   I feel happy when user can have better everyday life by my software development. </br>
-  I would be happy If I could contribute to make this world more interesting and fun with my software engineering skills.
+  I would be grateful If I could contribute to make this world more interesting and fun with my software engineering skills.
 
 ### More about me
 
